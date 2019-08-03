@@ -1,0 +1,29 @@
+body {
+	background-image: url(../img/rajaampat.jpg);
+	background-size: cover;
+	position: absolute;
+	z-index: 2;
+}
+img {
+ position: absolute;
+ right: 500px;
+ top: 30px;
+}
+.satu {
+	position: relative;
+	top: 10px;
+	bottom: 120px;
+	margin: 0 auto;
+}
+.dua {
+	position: relative;
+	background-color: white;
+	height: 85%;
+	width: 60%;
+	float: right;
+	text-align: right;
+	padding: 10px;
+	z-index: 1;
+	font-size: 14px;
+}
+
